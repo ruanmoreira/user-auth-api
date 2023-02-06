@@ -1,0 +1,17 @@
+{
+  "name": "ms-authentication",
+  "version": "1.0.0",
+  "description": "Microservice criado durante a aula da dio",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -p .",
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ruan Moreira",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.11.19",
+    "typescript": "^4.9.5"
+  }
+}
